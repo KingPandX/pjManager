@@ -24,7 +24,7 @@ alias dev="source ~/[ruta del proyecto]/change.sh"
 
 Esta herramienta tiene dos comandos principales: pj y dev.
 el comando pj se usa para gestionar los proyectos, 
-mientras que el comando dev se usa para cambiar de carpeta a la carpeta de proyecto seleccionada.
+mientras que el comando dev se usa para cambiar de carpeta a la del proyecto activo.
 
 ### Comando pj
 
