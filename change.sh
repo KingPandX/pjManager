@@ -1,0 +1,1 @@
+cd "$(cat ~/Dev/.path)"
