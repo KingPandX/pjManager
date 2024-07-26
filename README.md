@@ -7,8 +7,10 @@ Esta herramienta utiliza una carpeta llamada 'Dev' en la carpeta del usuario, en
 
 ## Instalación y configuración
 
-- Clonar el repositorio [Enlace al repositorio]
+- Clonar el repositorio [Enlace al repositorio](https://github.com/KingPandX/pjManager)
 - Crear una carpeta llamada 'Dev' en la carpeta del usuario
+
+
 ``` Lo siguiente es opcional pero claramente se recomienda usarse de esa forma ya que el programa fue creado para funcionar de esa manera```
 
 Dependiendo del interprete de shell que se use, se debe agregar la siguiente línea en el archivo de configuración de la shell que se use (por ejemplo, en el archivo config.fish si se usa fish o en el archivo .bashrc si se usa bash):
@@ -33,3 +35,8 @@ mientras que el comando dev se usa para cambiar de carpeta a la carpeta de proye
 - ```pj remove [nombre del proyecto]```: Elimina un proyecto de la carpeta 'Dev'
 
 - ```pj set [nombre del proyecto]```: Selecciona un proyecto como proyecto activo
+
+
+
+```Estos comandos no requieren ingresar el nombre del proyecto, si se ejecutan sin argumentos tienen un menu interactivo```
+```
